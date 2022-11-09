@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 25a1c7ca4c8c7234a9f50190f5970893
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_Target: {instanceID: 0}
+  - wallPrefab: {fileID: 8926853637736287836, guid: c13bc275564c5e64e95aac8d188651e0, type: 3}
+  - floorPrefab: {fileID: 5738836109295531131, guid: 9f1be0ff6540b4548ba664a3377a243f, type: 3}
+  - defEnemyPrefab: {fileID: 6262827415996645621, guid: 1e0c83d6d63fa8540ad0b0e33dda5678, type: 3}
+  - patrolEnemyPrefab: {fileID: 409420790069553105, guid: ccdb0dbd454e3f94fbd306ac078e2589, type: 3}
+  - theifEnemyPrefab: {fileID: 522146291107600723, guid: 5718af610c0f4594ea1aba6b8296d799, type: 3}
+  - m_ToolIcon: {fileID: 2800000, guid: 56adf392a7d080448ab9b85e27356d2e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
